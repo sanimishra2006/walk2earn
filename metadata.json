@@ -1,0 +1,10 @@
+{
+  "name": "Remix version 2",
+  "description": "Smart walking reward system for sustainable urban mobility. Track walks, replace short vehicle trips, earn mobility credits, and unlock eco-friendly rewards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
